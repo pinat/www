@@ -84,6 +84,7 @@
 
 <div class="container">
 	<h1>Welcome to CodeIgniter! (Dev.)</h1>
+<img src="<?php echo base_url('images/logo228x105.jpg'); ?>">
 
 	<div id="body">
 		<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
