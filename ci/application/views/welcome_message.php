@@ -83,7 +83,7 @@
 <body>
 
 <div class="container">
-	<h1>Welcome to CodeIgniter (Dev.)!</h1>
+	<h1>Welcome to CodeIgniter! (Dev.)</h1>
 
 	<div id="body">
 		<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
